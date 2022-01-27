@@ -7,3 +7,5 @@ In addition to that I also demonstrate:
 
 * <b>Business knowledge -</b> 
 Last in my project at section <i>5.1 A higher AUC score, so what? - Business context</i>. I bring up something many data scientists sometimes struggle with, describing their findings in a business friendly way to their stakeholders. In that section I explain how changes to the AUC score also affect other evaluation metrics and I use the false negative rate (FNR) and how changes in FNR affects a core business metric regarding the number of satisfied or neutral/dissatisfied airline passengers.
+
+The dataset that is used for this project is in the csv-file, 'data_neural_network_stacked_generalization_xgboost_glm_lennart_wallentin.csv'
