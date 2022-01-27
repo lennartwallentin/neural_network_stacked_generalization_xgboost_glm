@@ -1,4 +1,4 @@
-# neural_network_stacked_generalization_xgboost_glm_lennart_wallentin
+# neural_network_stacked_generalization_xgboost_glm
 ## by Lennart Wallentin, lennartwallentin@gmail.com 
 The main objective with this project is first of all to show that I have a broad set of skills regarding machine learning algorithms since I use Logistic Regression, XGBoost and Neural Networks in this project. The second objective is to research if a stacked generalization with a neural network (built with Keras and TensorFlow) as meta learner yields a higher AUC score than a stacked generalization with XGBoost as meta learner. The benchmark AUC score’s I use to compare against was yield from my other stacked generalization project https://github.com/lennartwallentin/passenger_satisfaction_stacking_anova hence there are similarities between these two projects but with one important distinction, in this project I show that I also have a good understanding regarding neural networks and the Keras and TensorFlow library.
 
